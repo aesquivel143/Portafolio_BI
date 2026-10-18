@@ -11,7 +11,7 @@ Apasionada por transformar datos complejos en decisiones de negocio claras y acc
 - **Problema:** Ausencia de visibilidad centralizada sobre la eficiencia global (OEE), el estado operativo de los equipos y el control de paros en la línea.
 - **Herramientas:** Power BI, Power Query, DAX, SQL, Sharepoint Lists.
 - **Resultados:** Consolidación en tiempo real de OEE, Disponibilidad, Rendimiento y Calidad, integrando el monitoreo del estado de máquina y un módulo de trazabilidad de fallas (abiertas, en proceso y cerradas) clasificadas por equipo y código.
-<img width="1002" height="480" alt="DASHBOARD_OEE" src="https://github.com/user-attachments/assets/70dfeea5-720d-435f-8b32-a90d15456fd9" />
+<img width="802" height="280" alt="DASHBOARD_OEE" src="https://github.com/user-attachments/assets/70dfeea5-720d-435f-8b32-a90d15456fd9" />
 
 
 ### 2. [Dashboard de Control Logístico y OTIF (Cadena de Suministro)](enlace-al-proyecto)
