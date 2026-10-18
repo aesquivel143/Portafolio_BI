@@ -17,15 +17,15 @@ Apasionada por transformar datos complejos en decisiones de negocio claras y acc
 
 ### 2. Dashboard Comercial, Ventas y Desempeño de Marketing
 - **Problema:** Fragmentación de datos de ventas, marketing y clientes, lo que dificultaba evaluar el retorno de inversión (ROI) y el seguimiento unificado del pipeline comercial.
-- **Herramientas:** Power BI, Power Query, DAX, Excel avanzado.
+- **Herramientas:** Power BI, Power Query, DAX, Excel avanzado, SQL.
 - **Resultados:** Centralización en tiempo real de MRR, tasa de conversión y efectividad de pipeline, permitiendo la optimización de métricas de adquisición (CAC, CPL, ROI) y el análisis del rendimiento por región.
-<img width="502" height="380" alt="SalesCustomer" src="https://github.com/user-attachments/assets/72c4e8fe-9237-4fc3-8b9f-3d6fabca9fb9" />
+<img width="602" height="380" alt="SalesCustomer" src="https://github.com/user-attachments/assets/72c4e8fe-9237-4fc3-8b9f-3d6fabca9fb9" />
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 - **Visualización:** Power BI (DAX, Power Query), Tableau, MiniTab.
-- **Bases de Datos & Lenguajes:** SQL (MySQL), Python (Pandas, NumPy, Streamlit), Visual Studio Code (JavaScript).
+- **Bases de Datos & Lenguajes:** SQL (MySQL), Python (Pandas, NumPy, Streamlit), Visual Studio Code (JavaScript), Sharepoint Lists.
 - **Otras herramientas:** GitHub, Excel Avanzado, Power Apps, Paquetería Microsoft.
 
 📫 **¿Cómo contactarme?**
