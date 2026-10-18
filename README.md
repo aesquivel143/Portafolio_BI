@@ -7,10 +7,12 @@ Apasionada por transformar datos complejos en decisiones de negocio claras y acc
 
 ## Proyectos Destacados
 
-### 1. [Dashboard de Métricas de Producción y Confiabilidad Operativa](enlace-al-proyecto)
-- **Problema:** Falta de visibilidad unificada sobre la eficiencia global del equipo (OEE), las causas raíz de paros de planta y los indicadores críticos de mantenimiento.
-- **Herramientas:** Power BI, Power Query, DAX, SQL.
-- **Resultados:** Consolidación en tiempo real de indicadores claves (Disponibilidad, Rendimiento, Calidad, MTBF y MTTR), permitiendo la identificación del Top 5 de causas de paro y mejorando el seguimiento del rendimiento por turno y línea.
+### 1. Dashboard OEE y Confiabilidad - Línea de Embolsado
+- **Problema:** Ausencia de visibilidad centralizada sobre la eficiencia global (OEE), el estado operativo de los equipos y el control de paros en la línea.
+- **Herramientas:** Power BI, Power Query, DAX, SQL, Sharepoint Lists.
+- **Resultados:** Consolidación en tiempo real de OEE, Disponibilidad, Rendimiento y Calidad, integrando el monitoreo del estado de máquina y un módulo de trazabilidad de fallas (abiertas, en proceso y cerradas) clasificadas por equipo y código.
+<img width="1002" height="480" alt="DASHBOARD_OEE" src="https://github.com/user-attachments/assets/70dfeea5-720d-435f-8b32-a90d15456fd9" />
+
 
 ### 2. [Dashboard de Control Logístico y OTIF (Cadena de Suministro)](enlace-al-proyecto)
 - **Problema:** Dificultad para medir los niveles de servicio al cliente, retrasos en entregas a tiempo y falta de control en la rotación de inventarios por SKU.
