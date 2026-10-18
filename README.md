@@ -7,7 +7,7 @@ Apasionada por transformar datos complejos en decisiones de negocio claras y acc
 
 ## Proyectos Destacados
 
-### 1. Dashboard OEE y Confiabilidad - Línea de Embolsado
+### 1. Dashboard OEE y Confiabilidad - Línea de Tren de Embolsado (Indelpro)
 - **Problema:** Ausencia de visibilidad centralizada sobre la eficiencia global (OEE), el estado operativo de los equipos y el control de paros en la línea.
 - **Herramientas:** Power BI, Power Query, DAX, SQL, Sharepoint Lists.
 - **Resultados:** Consolidación en tiempo real de OEE, Disponibilidad, Rendimiento y Calidad, integrando el monitoreo del estado de máquina y un módulo de trazabilidad de fallas (abiertas, en proceso y cerradas) clasificadas por equipo y código.
