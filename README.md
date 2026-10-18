@@ -11,7 +11,7 @@ Apasionada por transformar datos complejos en decisiones de negocio claras y acc
 - **Problema:** Ausencia de visibilidad centralizada sobre la eficiencia global (OEE), el estado operativo de los equipos y el control de paros en la línea.
 - **Herramientas:** Power BI, Power Query, DAX, SQL, Sharepoint Lists.
 - **Resultados:** Consolidación en tiempo real de OEE, Disponibilidad, Rendimiento y Calidad, integrando el monitoreo del estado de máquina y un módulo de trazabilidad de fallas (abiertas, en proceso y cerradas) clasificadas por equipo y código.
-<img width="802" height="480" alt="DASHBOARD_OEE" src="https://github.com/user-attachments/assets/70dfeea5-720d-435f-8b32-a90d15456fd9" />
+<img width="602" height="280" alt="DASHBOARD_OEE" src="https://github.com/user-attachments/assets/70dfeea5-720d-435f-8b32-a90d15456fd9" />
 
 ---
 
@@ -19,7 +19,7 @@ Apasionada por transformar datos complejos en decisiones de negocio claras y acc
 - **Problema:** Fragmentación de datos de ventas, marketing y clientes, lo que dificultaba evaluar el retorno de inversión (ROI) y el seguimiento unificado del pipeline comercial.
 - **Herramientas:** Power BI, Power Query, DAX, Excel avanzado.
 - **Resultados:** Centralización en tiempo real de MRR, tasa de conversión y efectividad de pipeline, permitiendo la optimización de métricas de adquisición (CAC, CPL, ROI) y el análisis del rendimiento por región.
-<img width="802" height="480" alt="SalesCustomer" src="https://github.com/user-attachments/assets/72c4e8fe-9237-4fc3-8b9f-3d6fabca9fb9" />
+<img width="502" height="380" alt="SalesCustomer" src="https://github.com/user-attachments/assets/72c4e8fe-9237-4fc3-8b9f-3d6fabca9fb9" />
 
 ---
 
