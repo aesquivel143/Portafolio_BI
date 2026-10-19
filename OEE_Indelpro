@@ -1,0 +1,47 @@
+# Medidas DAX - Dashboard OEE y Confiabilidad
+
+En este documento se detallan las medidas DAX clave utilizadas para estructurar el modelo de datos y calcular la eficiencia global de los equipos (OEE), métricas de paros y tiempos de operación.
+
+---
+
+### 1. Cálculo de Disponibilidad (Availability)
+Calcula la proporción de tiempo en que la máquina estuvo operando en relación al tiempo planificado de producción.
+
+```dax
+Disponibilidad = 
+VAR TiempoOperativo = SUM('Registro_Paros'[Tiempo_Operativo_Min])
+VAR TiempoPlanificado = SUM('Registro_Paros'[Tiempo_Planificado_Min])
+RETURN
+    DIVIDE(
+        TiempoOperativo,
+        TiempoPlanificado,
+        0
+    )
+```
+
+---
+
+### 2. Eficiencia Global del Equipo (OEE)
+Multiplica los tres pilares del OEE (Disponibilidad, Rendimiento y Calidad) garantizando el manejo adecuado de nulos.
+
+```dax
+% OEE = 
+VAR DisponibilidadRate = [Disponibilidad]
+VAR RendimientoRate = [Rendimiento]
+VAR CalidadRate = [Calidad]
+RETURN
+    DisponibilidadRate * RendimientoRate * CalidadRate
+```
+
+---
+
+### 3. Tasa de Fallas Abiertas (Estado Activo)
+Filtra dinámicamente las fallas reportadas desde la aplicación de mantenimiento que siguen en estado abierto o en proceso.
+
+```dax
+Fallas_Activas = 
+CALCULATE(
+    COUNTROWS('Registro_Fallas'),
+    'Registro_Fallas'[Estado] IN { "Abierta", "En Proceso" }
+)
+```
