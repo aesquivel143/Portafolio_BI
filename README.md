@@ -23,6 +23,14 @@ Apasionada por transformar datos complejos en decisiones de negocio claras y acc
 
 ---
 
+### 3. Dashboard de Cadena de Suministro y Gestión de Inventarios
+- **Problema:** Falta de visibilidad sobre los tiempos de entrega, fallas en el suministro y control sobre la antigüedad e inventario de almacén.
+- **Herramientas:** Power BI, Power Query, DAX, Excel avanzado.
+- **Resultados:** Monitoreo unificado del nivel de cumplimiento (COF Rate 94.56%), eficiencia de almacén (86.17%) y tiempo promedio de entrega (3.5 días), permitiendo identificar cuellos de botella en el suministro y analizar la distribución del inventario por antigüedad.
+<img width="654" height="380" alt="Logi" src="https://github.com/user-attachments/assets/708fc61e-237d-4175-8cd4-e4437e1603eb" />
+
+---
+
 ## 🛠️ Habilidades Técnicas
 - **Visualización:** Power BI (DAX, Power Query), Tableau, MiniTab.
 - **Bases de Datos & Lenguajes:** SQL (MySQL), Python (Pandas, NumPy, Streamlit), Visual Studio Code (JavaScript), Sharepoint Lists.
